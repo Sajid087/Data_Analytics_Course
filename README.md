@@ -71,7 +71,7 @@ conda install numpy pandas matplotlib
 - **Download**: [MySQL Community Downloads](https://dev.mysql.com/downloads/mysql/)
 
 #### Installation Highlights
-- Download appropriate version
+- Download the appropriate version
 - Use MySQL Installer
 - Set strong root password
 - Configure network and security settings
@@ -94,7 +94,7 @@ conda install numpy pandas matplotlib
 # Install package
 pip install package_name
 
-# Install specific version
+# Install a specific version
 pip install package_name==1.2.3
 
 # Create requirements file
@@ -143,8 +143,10 @@ python -c "import pandas; print(pandas.__version__)"
 
 ### Official Documentation
 - [Python Docs](https://docs.python.org/)
+- [Anaconda Docs](https://docs.anaconda.com/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy Documentation](https://numpy.org/doc/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 ### Community & Learning
 - Stack Overflow
@@ -156,9 +158,6 @@ python -c "import pandas; print(pandas.__version__)"
 
 ## 6. Contributing
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
-
-## 7. License
-This project is licensed under the MIT License.
 
 ---
 
